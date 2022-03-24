@@ -30,7 +30,7 @@ The candidate will be more likely selected if he/she:
 
 #### Description
 
-Mautic old docs is hosted at: (https://docs.mautic.org/en), the new docs is hosted at: https://mautic-documentation.readthedocs.io/en/latest/. A good documentation is very important for our users to get started.
+Mautic old docs is hosted at: (https://docs.mautic.org/en), the new docs is hosted at: (https://mautic-documentation.readthedocs.io/en/latest/). A good documentation is very important for our users to get started.
 
 We'd like the candidate to work on improving our docs:
 
@@ -52,4 +52,5 @@ We'd like the candidate to work on improving our docs:
 
 #### Mentor
 
-[Ruth Cheesly](https://github.com/hsluoyz)
+[Ruth Cheesly](https://github.com/rcheesley)
+[Favour Kelvin](https://github.com/fakela)
