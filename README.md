@@ -52,5 +52,5 @@ We'd like the candidate to work on improving our docs:
 
 #### Mentor
 
-[Ruth Cheesly](https://github.com/rcheesley)
-[Favour Kelvin](https://github.com/fakela)
+- [Ruth Cheesly](https://github.com/rcheesley)
+- [Favour Kelvin](https://github.com/fakela)
