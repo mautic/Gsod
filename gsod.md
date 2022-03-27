@@ -69,4 +69,4 @@ We create content in RST, and use the GitHub flow to review content via PRs befo
 Mautic has applied for the Google season of docs program in 2020. We were delighted with the progress made by both of our technical writers who were new to Mautic and quickly jumped in to get started on their projects. Swati and Favour have both made substantial contributions during their projects and the Mautic Community has benefitted from their skills and enthusiasm for improving our documentation.
 Favour who is currently a mentor has also participated in Google Summer of Code 2019 as a student and Google Code-In as a mentor.
 
-For Interested Technical Writers refer to this [doc](https://github.com/mautic/Gsod#readme)
+### For Interested Technical Writers refer to this [doc](https://github.com/mautic/Gsod#readme)
