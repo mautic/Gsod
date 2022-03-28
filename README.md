@@ -23,7 +23,7 @@ The candidate will be more likely selected if he/she:
 ## Get started
 
 1. Go through the proposed project idea: [Project Idea](https://docs.google.com/document/d/1HjQkupzPM3srkPKS31TyxV95EIr0eZ0lyFYKoyh5KU0/edit?usp=sharing)
-2. Send your resume/CV in PDF to: info@mautic.org
+2. Send your resume/CV in PDF to: seasonofdocs@mautic.org
 3. Get familiar with the Mautic, go through the documentation repo
 5. If you have questions, join the Mautic forum and slack channel.
 6. Submit your proposal in [GSoD official site](https://developers.google.com/season-of-docs).
@@ -52,5 +52,5 @@ We'd like the candidate to work on improving our docs:
 
 #### Mentor
 
-- [Ruth Cheesly](https://github.com/rcheesley)
+- [Ruth Cheesley](https://github.com/rcheesley)
 - [Favour Kelvin](https://github.com/fakela)
