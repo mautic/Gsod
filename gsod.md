@@ -53,8 +53,10 @@ The project itself will take approximately six months to complete, this would be
 | Budget item   | Amount | Running Total | Notes/justifications |
 | ------------------- | ------------------- | --------------| ----------- |
 | Technical writer/s audit, update, test, and publish new Mautic documentation    |  10,500    | 10,500.00 | |
-| Volunteer stipends  |  500      | 12,000 | 3 volunteer stipends x 500 each |
-| Project t-shirts (5 t-shirts)   | 13,000    |1300 | Design and print T-Shirt for participants and volunteers|
+| Volunteer stipends  |  1,500      | 12,000 | 3 volunteer stipends x 500 each |
+| Project t-shirts (5 t-shirts)   | 200    |12,200 | Design and print T-Shirt for participants and volunteers|
+| Administration costs   | 800    |13,000.00 | Administration expenses ($174 for OysterHR contract, $500 toward attending next in-person conference, misc expenses)|
+
 | TOTAL   |        | 13,000.00 | |
 
 
