@@ -1,5 +1,7 @@
 # Google Season Of Docs 2022 for Mautic
 
+## We are now closed for applications to the 2022 Season of Docs projects. Thank you for your interest!
+
 ## What is Google Season Of Docs?
 
 The goal of Season of Docs is to provide a framework for technical writers and open source projects to work together towards the common goal of improving an open source project's documentation. For technical writers who are new to open source, the program provides an opportunity to gain experience in contributing to open source projects. For technical writers who're already working in open source, the program provides a potentially new way of working together. Season of Docs also gives open source projects an opportunity to engage more of the technical writing community.
@@ -23,7 +25,7 @@ The candidate will be more likely selected if he/she:
 ## Get started
 
 1. Go through the proposed project idea: [Project Idea](https://docs.google.com/document/d/1HjQkupzPM3srkPKS31TyxV95EIr0eZ0lyFYKoyh5KU0/edit?usp=sharing)
-2. Send your resume/CV in PDF to: seasonofdocs@mautic.org
+2. Send your resume/CV in PDF to: seasonofdocs@mautic.org **PLEASE NOTE WE ARE NOW CLOSED FOR SUBMISSIONS**
 3. Get familiar with the Mautic, go through the documentation repo
 5. If you have questions, join the Mautic forum and slack channel.
 6. Submit your proposal in [GSoD official site](https://developers.google.com/season-of-docs).
